@@ -6,11 +6,7 @@
 
 
 
-## Emphasis
-
-**This is bold text**
-
-__CISC 3610 - Tasmia Kayenat's Project__
+## CISC 3610 - Tasmia Kayenat's Portfolio
 
 **This is italic text**
 
